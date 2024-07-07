@@ -1,0 +1,189 @@
+.head{
+    color: black;
+    font-weight: bold;
+    text-align: center;
+    padding: 10px;
+    font-size: 30px;
+    font-family: "caveat";
+}
+.para{
+    color: aqua;
+    font-family: "caveat";
+    padding: 10px;
+}
+.bg-con{
+    text-align: center;
+
+}
+.img{
+    background-image: url("https://ik.imagekit.io/jbwgfmfxv/WhatsApp%20Image%202024-07-06%20at%2022.33.51_03a0ad2b.jpg?updatedAt=1720363686897 ");
+    background-size: cover;
+    width: 20vw;
+    height: 30vh;
+   border-radius: 20px;
+   margin: 10px;
+
+}
+
+.img:hover{
+    height: 200px;
+    width: 320px;
+    transition:0.5s;
+}
+.but{
+    text-align: right;
+    margin: 10px;
+}
+.img2{
+    background-image: url("https://ik.imagekit.io/jbwgfmfxv/WhatsApp%20Image%202024-07-06%20at%2022.36.20_94efb60e.jpg?updatedAt=1720363778712 ");
+    background-size: cover;
+    width: 20vw;
+    height: 30vh;
+   border-radius: 20px;
+   margin: 10px;
+
+}
+.img3{
+    background-image: url("https://ik.imagekit.io/jbwgfmfxv/WhatsApp%20Image%202024-07-06%20at%2022.33.51_403237de.jpg?updatedAt=1720363883951 ");
+    background-size: cover;
+    width: 20vw;
+    height: 30vh;
+   border-radius: 20px;
+   margin: 10px;
+
+}
+.img4{
+    background-image: url("https://ik.imagekit.io/jbwgfmfxv/WhatsApp%20Image%202024-07-06%20at%2022.36.39_49330daf.jpg?updatedAt=1720363943114 ");
+    background-size: cover;
+    width: 20vw;
+    height: 30vh;
+   border-radius: 20px;
+   margin: 10px;
+}
+.img5{
+    background-image: url("https://ik.imagekit.io/jbwgfmfxv/WhatsApp%20Image%202024-07-06%20at%2022.34.10_4aff645a.jpg?updatedAt=1720363986917 ");
+    background-size: cover;
+    width: 20vw;
+    height: 30vh;
+   border-radius: 20px;
+   margin: 10px;
+}
+.img6{
+    background-image: url("https://ik.imagekit.io/jbwgfmfxv/WhatsApp%20Image%202024-07-06%20at%2022.36.30_daa013e3.jpg?updatedAt=1720364019042 ");
+    background-size: cover;
+    width: 20vw;
+    height: 30vh;
+   border-radius: 20px;
+   margin: 10px;
+}
+.img7{
+    background-image: url("https://ik.imagekit.io/jbwgfmfxv/WhatsApp%20Image%202024-07-06%20at%2022.36.30_cbcd6dc6.jpg?updatedAt=1720364045416 ");
+    background-size: cover;
+    width: 20vw;
+    height: 30vh;
+   border-radius: 20px;
+   margin: 10px;
+}
+.img8{
+    background-image: url("https://ik.imagekit.io/jbwgfmfxv/WhatsApp%20Image%202024-07-06%20at%2022.36.29_61fbde19.jpg?updatedAt=1720364091593 ");
+    background-size: cover;
+    width: 20vw;
+    height: 30vh;
+   border-radius: 20px;
+   margin: 10px;
+}
+.img9{
+    background-image: url("https://ik.imagekit.io/jbwgfmfxv/WhatsApp%20Image%202024-07-06%20at%2022.36.33_c81e5da5.jpg?updatedAt=1720364127066 ");
+    background-size: cover;
+    width: 20vw;
+    height: 30vh;
+   border-radius: 20px;
+   margin: 10px;
+}
+.img10{
+    background-image: url("https://ik.imagekit.io/jbwgfmfxv/WhatsApp%20Image%202024-07-06%20at%2022.36.38_fb9d25a1.jpg?updatedAt=1720364154016 ");
+    background-size: cover;
+    width: 20vw;
+    height: 30vh;
+   border-radius: 20px;
+   margin: 10px;
+}
+.img11{
+    background-image: url("https://ik.imagekit.io/jbwgfmfxv/WhatsApp%20Image%202024-07-06%20at%2022.37.02_cb4104ef.jpg?updatedAt=1720364191098 ");
+    background-size: cover;
+    width: 20vw;
+    height: 30vh;
+   border-radius: 20px;
+   margin: 10px;
+}
+.img12{
+    background-image: url("https://ik.imagekit.io/jbwgfmfxv/WhatsApp%20Image%202024-07-06%20at%2022.37.03_f3fe4bb2.jpg?updatedAt=1720364221779  ");
+    background-size: cover;
+    width: 20vw;
+    height: 30vh;
+   border-radius: 20px;
+   margin: 10px;
+}
+.img13{
+    background-image: url("https://ik.imagekit.io/jbwgfmfxv/WhatsApp%20Image%202024-07-06%20at%2022.37.04_9ec5f535.jpg?updatedAt=1720364252343  ");
+    background-size: cover;
+    width: 20vw;
+    height: 30vh;
+   border-radius: 20px;
+   margin: 10px;
+}
+.img2:hover{
+    height: 200px;
+    width: 320px;
+    transition:0.5s;
+}
+.img5:hover{
+    height: 200px;
+    width: 320px;
+    transition:0.5s;
+}
+.img4:hover{
+    height: 200px;
+    width: 320px;
+    transition:0.5s;
+}
+.img6:hover{
+    height: 200px;
+    width: 320px;
+    transition:0.5s;
+}
+.img7:hover{
+    height: 200px;
+    width: 320px;
+    transition:0.5s;
+}
+.img8:hover{
+    height: 200px;
+    width: 320px;
+    transition:0.5s;
+}
+.img9:hover{
+    height: 200px;
+    width: 370px;
+    transition:0.5s;
+}
+.img10:hover{
+    height: 200px;
+    width: 320px;
+    transition:0.5s;
+}
+.img11:hover{
+    height: 200px;
+    width: 320px;
+    transition:0.5s;
+}
+.img12:hover{
+    height: 200px;
+    width: 320px;
+    transition:0.5s;
+}
+.img13:hover{
+    height: 200px;
+    width: 380px;
+    transition:0.5s;
+}
